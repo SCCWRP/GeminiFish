@@ -3,6 +3,11 @@ Detect Garibaldi and other fish in images using Gemini
 
 Small proof of concept
 
+labeled image |
+--- |
+<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/877139b6-5ca5-4613-bc86-e17e3a9a0719" /> |
+
+
 ## Installation of dependencies
 
 ### With plain pip
