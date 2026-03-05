@@ -1,0 +1,6 @@
+.env
+images/.DS_Store
+
+labeled/*
+labels/*
+*.log

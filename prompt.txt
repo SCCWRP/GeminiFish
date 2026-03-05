@@ -1,0 +1,1 @@
+Exhaustively detect all fish in this image, only keeping detections with high confidence levels. Categorize each detection into one of the following classes: [Garibaldi, Other]. Return the data as a JSON list where each entry contains 'label' and 'box_2d' [ymin, xmin, ymax, xmax] normalized to 0-1000.
