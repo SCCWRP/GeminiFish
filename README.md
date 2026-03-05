@@ -1,16 +1,23 @@
-# With plain pip
+Detect Garibaldi and other fish in images using Gemini
+===
+
+Small proof of concept
+
+## Installation of dependencies
+
+### With plain pip
 
 ```
 pip install -r requirements.txt
 ```
 
-# With uv
+### With uv
 
 ```
 uv pip install -r requirements 
 ```
 
-# Run
+## Run the detection
 
 Put your images in a directory called `./images/`, then run
 

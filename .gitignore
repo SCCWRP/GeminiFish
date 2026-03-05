@@ -1,6 +1,6 @@
 .env
-images/.DS_Store
-
+.DS_Store
+images/*
 labeled/*
 labels/*
 *.log
