@@ -1,0 +1,13 @@
+{
+  "image_file": "original.jpeg.257.jpeg",
+  "detections": [
+    {
+      "Garibaldi": [
+        210,
+        214,
+        740,
+        730
+      ]
+    }
+  ]
+}

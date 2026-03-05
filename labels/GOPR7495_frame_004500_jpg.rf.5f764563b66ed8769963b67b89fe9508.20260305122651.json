@@ -1,0 +1,29 @@
+{
+  "image_file": "GOPR7495_frame_004500_jpg.rf.5f764563b66ed8769963b67b89fe9508.jpg",
+  "detections": [
+    {
+      "Garibaldi": [
+        628,
+        762,
+        815,
+        881
+      ]
+    },
+    {
+      "Garibaldi": [
+        584,
+        335,
+        630,
+        404
+      ]
+    },
+    {
+      "Garibaldi": [
+        691,
+        0,
+        763,
+        114
+      ]
+    }
+  ]
+}
